@@ -10,6 +10,9 @@
 - 😄 Pronouns: He/Him
 - 🎨 Fun fact: I enjoy **drawing**, **exploring new tech**, and **playing basketball** in my free time.
 
+## 🌐 Portfolio
+Check out my portfolio: [Daniel Shofela - Portfolio](https://danielshofela.github.io/Mon-portfolio/)
+
 ## 📚 Certifications
 - SQL: Les Fondamentaux  
 - Apprendre la Data Science avec Python  
